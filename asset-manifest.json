@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/example/static/css/main.1239232e.chunk.css",
+    "main.js": "/example/static/js/main.295a08f5.chunk.js",
+    "main.js.map": "/example/static/js/main.295a08f5.chunk.js.map",
+    "runtime-main.js": "/example/static/js/runtime-main.5c19dd76.js",
+    "runtime-main.js.map": "/example/static/js/runtime-main.5c19dd76.js.map",
+    "static/js/2.d88635ec.chunk.js": "/example/static/js/2.d88635ec.chunk.js",
+    "static/js/2.d88635ec.chunk.js.map": "/example/static/js/2.d88635ec.chunk.js.map",
+    "index.html": "/example/index.html",
+    "precache-manifest.310844f9722c1762e5d2b44f9cc4d44b.js": "/example/precache-manifest.310844f9722c1762e5d2b44f9cc4d44b.js",
+    "service-worker.js": "/example/service-worker.js",
+    "static/css/main.1239232e.chunk.css.map": "/example/static/css/main.1239232e.chunk.css.map",
+    "static/js/2.d88635ec.chunk.js.LICENSE.txt": "/example/static/js/2.d88635ec.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/example/static/media/1.2ef51fa8.png",
+    "static/media/mianshi.png": "/example/static/media/mianshi.2c8403a3.png",
+    "static/media/tianpin.png": "/example/static/media/tianpin.8e612611.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c19dd76.js",
+    "static/js/2.d88635ec.chunk.js",
+    "static/css/main.1239232e.chunk.css",
+    "static/js/main.295a08f5.chunk.js"
+  ]
+}
