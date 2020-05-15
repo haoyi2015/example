@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/example/react/static/css/main.1239232e.chunk.css",
+    "main.js": "/example/react/static/js/main.19f57018.chunk.js",
+    "main.js.map": "/example/react/static/js/main.19f57018.chunk.js.map",
+    "runtime-main.js": "/example/react/static/js/runtime-main.b2df1ee5.js",
+    "runtime-main.js.map": "/example/react/static/js/runtime-main.b2df1ee5.js.map",
+    "static/js/2.d88635ec.chunk.js": "/example/react/static/js/2.d88635ec.chunk.js",
+    "static/js/2.d88635ec.chunk.js.map": "/example/react/static/js/2.d88635ec.chunk.js.map",
+    "index.html": "/example/react/index.html",
+    "precache-manifest.9dcb7168495d9b99dfdf0b177f8e4bff.js": "/example/react/precache-manifest.9dcb7168495d9b99dfdf0b177f8e4bff.js",
+    "service-worker.js": "/example/react/service-worker.js",
+    "static/css/main.1239232e.chunk.css.map": "/example/react/static/css/main.1239232e.chunk.css.map",
+    "static/js/2.d88635ec.chunk.js.LICENSE.txt": "/example/react/static/js/2.d88635ec.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/example/react/static/media/1.2ef51fa8.png",
+    "static/media/mianshi.png": "/example/react/static/media/mianshi.2c8403a3.png",
+    "static/media/tianpin.png": "/example/react/static/media/tianpin.8e612611.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2df1ee5.js",
+    "static/js/2.d88635ec.chunk.js",
+    "static/css/main.1239232e.chunk.css",
+    "static/js/main.19f57018.chunk.js"
+  ]
+}
